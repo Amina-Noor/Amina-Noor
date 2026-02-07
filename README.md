@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi 👋 I'm Amina Noor
 
-<!--
-**Amina-Noor/Amina-Noor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sofware Engineering Student  
+💻 Learning Java, HTML, CSS & GitHub  
+📂 Beginner-friendly projects and practice work  
 
-Here are some ideas to get you started:
+### 🔗 My GitHub
+https://github.com/Amina-Noor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- Music Player App
+- Calculator
+- Photo Gallery
+- Dashboard Project
+
+✨ Always learning and improving!
