@@ -11,6 +11,5 @@ https://github.com/Amina-Noor
 - Music Player App
 - Calculator
 - Photo Gallery
-- Dashboard Project
 
 ✨ Always learning and improving!
