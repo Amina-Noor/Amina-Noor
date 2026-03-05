@@ -10,16 +10,6 @@
 https://github.com/Amina-Noor
 
 ---
-# Hi 👋 I'm Amina Noor
-
-🎓 Software Engineering Student  
-💻 Learning Java, HTML, CSS, React & Git  
-📂 Beginner-friendly projects and practice work  
-
----
-
-## 🔗 My GitHub
-https://github.com/Amina-Noor
 
 ---
 
@@ -38,10 +28,6 @@ https://github.com/Amina-Noor
 
 ### Java / Backend Projects
 - **[SkillBridge-with-SpringBoot](https://github.com/Amina-Noor/SkillBridge-with-SpringBoot)** – Skill management web app built using **Spring Boot / Java**
-
----
-
-✨ Always learning and improving!
 
 ---
 
