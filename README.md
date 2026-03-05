@@ -11,21 +11,44 @@ https://github.com/Amina-Noor
 
 ---
 
-## 🚀 Projects
+🚀 Projects
+⚛️ React Projects
 
-### React Projects
-- **[Ararat Architecture](https://github.com/Amina-Noor/ararat-architecture)** – Architecture website built using **React JS**
+Ararat Architecture – Architecture Website
+Built a modern architecture website using React with reusable components and responsive design.
 
-### Web & UI Projects
-- **[CodeAlpha_Calculator](https://github.com/Amina-Noor/CodeAlpha_Calculator)** – Built using **HTML / CSS / JavaScript**  
-- **[CodeAlpha_Music-Player](https://github.com/Amina-Noor/CodeAlpha_Music-Player)** – Interactive music player using **JavaScript**  
-- **[CodeAlpha_Photo-Gallery](https://github.com/Amina-Noor/CodeAlpha_Photo-Gallery)** – Photo gallery project using **HTML / CSS / JS**  
+Skills: React, Component-Based Design, Responsive UI
 
-### AI / Python Projects
-- **[Artificial-Intelligence-Project--AirQualityPrediction](https://github.com/Amina-Noor/Artificial-Intelligence-Project--AirQualityPrediction)** – Predict Air Quality using **Python & Machine Learning**  
+💻 Web & UI Projects
 
-### Java / Backend Projects
-- **[SkillBridge-with-SpringBoot](https://github.com/Amina-Noor/SkillBridge-with-SpringBoot)** – Skill management web app built using **Spring Boot / Java**
+CodeAlpha Calculator
+A responsive calculator built using HTML, CSS, and JavaScript that performs basic arithmetic operations with interactive UI.
+
+Skills: DOM Manipulation, Event Handling, Responsive Design
+
+CodeAlpha Music Player
+Developed an interactive music player with play, pause, and track navigation features using JavaScript.
+
+Skills: JavaScript, Audio API, UI Design
+
+CodeAlpha Photo Gallery
+Created a structured image gallery with responsive layout and interactive image display.
+
+Skills: CSS Grid/Flexbox, JavaScript, Responsive Design
+
+🤖 AI / Python Projects
+
+Air Quality Prediction System
+Built a machine learning model to predict air quality levels using Python.
+
+Technologies: Python, Scikit-learn, Data Analysis
+
+☕ Java / Backend Projects
+
+SkillBridge – Skill Management Web App
+Developed a skill management system using Spring Boot and Java for managing and organizing professional skills.
+
+Skills: Backend Development, REST APIs, Database Integration
 
 ---
 
