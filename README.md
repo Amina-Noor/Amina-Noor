@@ -11,8 +11,6 @@ https://github.com/Amina-Noor
 
 ---
 
----
-
 ## 🚀 Projects
 
 ### React Projects
