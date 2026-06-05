@@ -1,6 +1,7 @@
 # Hi 👋 I'm Amina Noor
-🎓 Software Engineering Student  
-💻 Learning Java, HTML, CSS, React & Git  
+🎓 Software Engineering Student at Fatima Jinnah Women University  
+💻 Learning Java, HTML, CSS, React, Python & Git  
+🤖 Interested in Web Development, AI/ML & Game Development  
 📂 Beginner-friendly projects and practice work  
 
 ---
@@ -21,7 +22,8 @@ https://github.com/Amina-Noor
 - **[CodeAlpha_Photo-Gallery](https://github.com/Amina-Noor/CodeAlpha_Photo-Gallery)** – Photo gallery project using **HTML / CSS / JS**  
 
 ### 🤖 AI / Python Projects
-- **[Artificial-Intelligence-Project--AirQualityPrediction](https://github.com/Amina-Noor/Artificial-Intelligence-Project--AirQualityPrediction)** – Predict Air Quality using **Python & Machine Learning**  
+- **[Artificial-Intelligence-Project--AirQualityPrediction](https://github.com/Amina-Noor/Artificial-Intelligence-Project--AirQualityPrediction)** – Predict Air Quality using **Python & Machine Learning**
+- **[Autism-Connect](https://github.com/Amina-Noor/Autism-Connect)** – Full-stack ASD caregiver web app using **React.js / Python / Flask / Logistic Regression**
 
 ### ☕ Java / Backend Projects
 - **[SkillBridge-with-SpringBoot](https://github.com/Amina-Noor/SkillBridge-with-SpringBoot)** – Skill management web app built using **Spring Boot / Java**
