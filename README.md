@@ -28,6 +28,7 @@ https://github.com/Amina-Noor
 
 ### 🎮 C# / Game Dev Projects
 - **[2D-Space-Shooter-Game](https://github.com/Amina-Noor/2D-Space-Shooter-Game)** – Desktop 2D space shooter game built using **C# / Windows Forms / .NET**
+- **[2D-Fruit-Ninja-Game](https://github.com/Amina-Noor/2D-Fruit-Ninja-Game)** – Desktop 2D fruit ninja game built using **C# / Windows Forms / .NET**
 
 ---
 
