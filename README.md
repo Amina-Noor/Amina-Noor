@@ -10,28 +10,28 @@ I'm a passionate student at Fatima Jinnah Women University, dedicated to buildin
 
 👯 I'm the General Secretary of the IEEE Chapter (STEM Society).
 
-📫 How to reach me: nooramina685@gmail.com
+📫 **How to reach me**: nooramina685@gmail.com
 
 ---
 
 ## 💻 Tech Stack
 
-## Languages: 
+### Languages: 
 JavaScript, Python, Java, C#
 
-## Frontend: 
+### Frontend: 
 React JS, HTML5, CSS3
 
-## Backend: 
+### Backend: 
 Spring 
 
-## BootDatabases: 
+### BootDatabases: 
 MySQL, SQL Server
 
-## AI/ML: 
+### AI/ML: 
 Scikit-Learn, Streamlit, Generative AI
 
-## Tools: 
+### Tools: 
 Git, GitHub, VS Code, Cisco Packet Tracer
 
 ---
@@ -41,16 +41,16 @@ Git, GitHub, VS Code, Cisco Packet Tracer
 For more details on these and other projects, please visit my [https://amina-noor.github.io/amina-portfolio/].
 
 ### Project 
-1. Autism Connect 
+#### 1. Autism Connect 
 React app to support caregivers and individuals with Autism.	
 
-2. AI Hash Crack Defense
+#### 2. AI Hash Crack Defense
 AI-powered cybersecurity defense against hash-cracking attacks.
 
-3. Air Quality Prediction	
+#### 3. Air Quality Prediction	
 ML project predicting air quality using data preprocessing and models.
 
-4. SkillBridge
+#### 4. SkillBridge
 Skill management web application.	Java, Spring Boot, MySQL
 
 ---
