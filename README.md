@@ -37,11 +37,13 @@ Git, GitHub, VS Code, Cisco Packet Tracer
 
 For more details on these and other projects, please visit my [(https://amina-noor.github.io/amina-portfolio/)].
 
-Project Name	Description	Tech Stack
-Autism Connect	React app to support caregivers and individuals with Autism.	React, Python, Flask, FastAPI
-AI Hash Crack Defense	AI-powered cybersecurity defense against hash-cracking attacks.	Python, Streamlit, AI
-Air Quality Prediction	ML project predicting air quality using data preprocessing and models.	Python, Scikit-Learn
-SkillBridge	Skill management web application.	Java, Spring Boot, MySQL
+
+Project Name |	Description	Tech Stack
+Autism Connect |	React app to support caregivers and individuals with Autism.	React, Python, Flask, FastAPI
+AI Hash Crack Defense |	AI-powered cybersecurity defense against hash-cracking attacks.	Python, Streamlit, AI
+Air Quality Prediction |	ML project predicting air quality using data preprocessing and models.	Python, Scikit-Learn
+SkillBridge |	Skill management web application.	Java, Spring Boot, MySQL
+
 ---
 
 ## 🏆 Achievements & More
