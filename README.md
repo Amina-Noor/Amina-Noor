@@ -5,8 +5,11 @@
 I'm a passionate student at Fatima Jinnah Women University, dedicated to building web apps, AI-powered solutions, and interactive digital experiences. For more details, check out my [https://amina-noor.github.io/amina-portfolio/].
 
 🔭 I'm currently a Front-End AI Engineering Intern at FlyRank AI.
+
 🌱 I'm actively learning Advanced React, Machine Learning, and Backend Development with Spring Boot.
+
 👯 I'm the General Secretary of the IEEE Chapter (STEM Society).
+
 📫 How to reach me: nooramina685@gmail.com
 
 ---
