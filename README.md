@@ -1,136 +1,53 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Amina-Noor)
-
-![GitHub followers](https://img.shields.io/github/followers/Amina-Noor?label=Followers)
-
-![GitHub stars](https://img.shields.io/github/stars/Amina-Noor?affiliations=OWNER&style=social)
 
 # Hi 👋 I'm Amina Noor
 
-### Software Engineering Student | Front-End Developer | AI/ML Enthusiast
+## Software Engineering Student | Front-End Developer | AI/ML Enthusiast
+I'm a passionate student at Fatima Jinnah Women University, dedicated to building web apps, AI-powered solutions, and interactive digital experiences. For more details, check out my [https://amina-noor.github.io/amina-portfolio/].
 
-🎓 Software Engineering Student at Fatima Jinnah Women University
-
-💡 Passionate about building web applications, AI-powered solutions, and interactive digital experiences.
-
-🌱 Currently learning:
-
-* Advanced React Development
-* Machine Learning & AI Applications
-* Backend Development with Spring Boot
-* Software Engineering Best Practices
-
-🚀 Current Roles:
-
-* Front-End AI Engineering Intern @ FlyRank AI
-* General Secretary @ IEEE Chapter (STEM Society)
+🔭 I'm currently a Front-End AI Engineering Intern at FlyRank AI.
+🌱 I'm actively learning Advanced React, Machine Learning, and Backend Development with Spring Boot.
+👯 I'm the General Secretary of the IEEE Chapter (STEM Society).
+📫 How to reach me: nooramina685@gmail.com
 
 ---
 
 ## 💻 Tech Stack
 
-### Programming Languages
+## Languages: 
+JavaScript, Python, Java, C#
 
-* JavaScript
-* Python
-* Java
-* C#
+## Frontend: 
+React JS, HTML5, CSS3
 
-### Frontend Development
+## Backend: 
+Spring 
 
-* HTML5
-* CSS3
-* JavaScript
-* React JS
-* Responsive Web Design
+## BootDatabases: 
+MySQL, SQL Server
 
-### Backend & Databases
+## AI/ML: 
+Scikit-Learn, Streamlit, Generative AI
 
-* Spring Boot
-* MySQL
-* SQL Server
-
-### AI & Machine Learning
-
-* Python
-* Scikit-Learn
-* Data Preprocessing
-* Predictive Modeling
-* Generative AI
-* Streamlit
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* Cisco Packet Tracer
+## Tools: 
+Git, GitHub, VS Code, Cisco Packet Tracer
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌟 Autism Connect
+For more details on these and other projects, please visit my [(https://amina-noor.github.io/amina-portfolio/)].
 
-A full-featured React application designed to support caregivers and individuals with Autism Spectrum Disorder through an accessible and user-friendly interface.
-
-**Tech Stack:** React JS, Python, Flask, FastAPI
-
+Project Name	Description	Tech Stack
+Autism Connect	React app to support caregivers and individuals with Autism.	React, Python, Flask, FastAPI
+AI Hash Crack Defense	AI-powered cybersecurity defense against hash-cracking attacks.	Python, Streamlit, AI
+Air Quality Prediction	ML project predicting air quality using data preprocessing and models.	Python, Scikit-Learn
+SkillBridge	Skill management web application.	Java, Spring Boot, MySQL
 ---
 
-### 🌟 AI Hash Crack Defense System
+## 🏆 Achievements & More
 
-An AI-powered cybersecurity project demonstrating defense mechanisms against hash-cracking attacks with real-time visualizations.
-
-**Tech Stack:** Python, Streamlit, AI
-
----
-
-### 🌟 Air Quality Prediction
-
-Machine Learning project that predicts air quality using data preprocessing, feature engineering, and predictive models.
-
-**Tech Stack:** Python, Machine Learning, Scikit-Learn
-
----
-
-### 🌟 SkillBridge
-
-A skill management web application developed using Spring Boot and Java.
-
-**Tech Stack:** Java, Spring Boot, MySQL
-
----
-
-### 🌟 Ararat Architecture
-
-Modern responsive architecture company website with clean UI and professional design.
-
-**Tech Stack:** React JS, CSS
-
----
-
-### 🌟 2D Fruit Ninja Game
-
-Desktop-based slicing game featuring scoring systems, bomb hazards, and increasing difficulty levels.
-
-**Tech Stack:** C#, Windows Forms, .NET
-
----
-
-## 🏆 Certifications
-
-* Generative AI for Video Creation Masterclass
-* Making Web Apps with Streamlit Masterclass
-* Basics in Machine Learning
-* Cyber Safety Awareness Training
-
----
-
-## 🌟 Leadership & Activities
-
-### IEEE Chapter (STEM Society)
-
-Serving as General Secretary and actively organizing technical events, workshops, and student engagement activities.
+🏅 Certifications: Generative AI, Streamlit, Machine Learning, Cyber Safety. (See all on my portfolio)
+👨‍🏫 Leadership: General Secretary, IEEE Chapter (STEM Society). (Learn more on my portfolio)
 
 ---
 
@@ -153,12 +70,3 @@ Serving as General Secretary and actively organizing technical events, workshops
 ---
 
 ⭐ Always learning, building, and improving.
-
-
-## 📊 GitHub Stats
-
-![Amina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amina-Noor&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amina-Noor&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amina-Noor)
