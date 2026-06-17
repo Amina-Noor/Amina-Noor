@@ -40,7 +40,7 @@ Git, GitHub, VS Code, Cisco Packet Tracer
 
 For more details on these and other projects, please visit my [https://amina-noor.github.io/amina-portfolio/].
 
-# Project 
+### Project 
 1. Autism Connect 
 React app to support caregivers and individuals with Autism.	
 
@@ -58,6 +58,7 @@ Skill management web application.	Java, Spring Boot, MySQL
 ## 🏆 Achievements & More
 
 🏅 Certifications: Generative AI, Streamlit, Machine Learning, Cyber Safety. (See all on my portfolio)
+
 👨‍🏫 Leadership: General Secretary, IEEE Chapter (STEM Society). (Learn more on my portfolio)
 
 ---
