@@ -57,9 +57,11 @@ Skill management web application.	Java, Spring Boot, MySQL
 
 ## 🏆 Achievements & More
 
-🏅 Certifications: Generative AI, Streamlit, Machine Learning, Cyber Safety. (See all on my portfolio)
+### 🏅 Certifications: 
+Generative AI, Streamlit, Machine Learning, Cyber Safety. (See all on my portfolio)
 
-👨‍🏫 Leadership: General Secretary, IEEE Chapter (STEM Society). (Learn more on my portfolio)
+### 👨‍🏫 Leadership: 
+General Secretary, IEEE Chapter (STEM Society). (Learn more on my portfolio)
 
 ---
 
