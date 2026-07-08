@@ -1,6 +1,6 @@
 # Hi 👋 I'm Amina Noor
 
-## BSE Software Engineering @ FJWU | Generative AI Intern @ Decode Labs | Front-End AI Intern @ FlyRank AI | AI/ML • Generative AI • React • JavaScript • Python | Aspiring Software Engineer
+## ## Software Engineering Student | Generative AI Intern @ Decode Labs | Front-End AI Engineering Intern @ FlyRank AI | Aspiring Software Engineer
 
 I'm a passionate student at Fatima Jinnah Women University, dedicated to building web apps, AI-powered solutions, and interactive digital experiences. For more details, check out my [https://amina-noor.github.io/amina-portfolio/].
 
