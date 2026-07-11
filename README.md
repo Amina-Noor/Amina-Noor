@@ -120,23 +120,6 @@ General Secretary — IEEE Chapter (STEM Society)
 
 ---
 
-## 🚀 Current Learning Journey
-
-### 🤖 Decode Labs – Generative AI Internship
-
-Currently building hands-on AI applications using Large Language Models (LLMs), Prompt Engineering, and AI APIs.
-
-Projects include:
-
-- AI Chatbot with Memory
-- AI Productivity Tools
-- LLM-powered Applications
-- Prompt Engineering Projects
-
-More projects will be added throughout the internship.
-
----
-
 ## 📫 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/amina-noor-bab75b297](http://www.linkedin.com/in/amina-noor-bab75b297)
