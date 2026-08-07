@@ -1,131 +1,47 @@
 # Hi 👋 I'm Amina Noor
 
-## Software Engineering Student | Generative AI Intern @ Decode Labs | Front-End AI Engineering Intern @ FlyRank AI | Aspiring Software Engineer
+### Software Engineering Student | AI Engineer | Front-End AI Engineering Intern @ FlyRank AI | SOC Analyst Intern @ PentSec
 
-I'm a passionate student at Fatima Jinnah Women University, dedicated to building web apps, AI-powered solutions, and interactive digital experiences. For more details, check out my [https://amina-noor.github.io/amina-portfolio/].
+I'm a Software Engineering student at **Fatima Jinnah Women University** passionate about **Artificial Intelligence, Full-Stack Development, and Cybersecurity**. I enjoy building AI-powered applications, secure software solutions, and modern web experiences.
 
-🔭 I'm currently:
-- Front-End AI Engineering Intern at FlyRank AI
-- Generative AI Intern at Decode Labs
+## 🚀 Currently
 
-🌱 I'm actively learning:
-- Generative AI & Large Language Models (LLMs)
-- Advanced React
-- Machine Learning
-- Backend Development with Spring Boot
-- Cybersecurity (SOC & Blue Team Fundamentals)ot.
-
-👯 I'm the General Secretary of the IEEE Chapter (STEM Society).
-
-📫 **How to reach me**: nooramina685@gmail.com
-
----
+- 💻 Front-End AI Engineering Intern @ FlyRank AI
+- 🛡️ SOC Analyst Intern @ PentSec
+- 🤖 Building AI-powered applications with LLMs
+- 🌱 Learning AI Engineering, SOC Operations, and Full-Stack Development
 
 ## 💻 Tech Stack
 
-### Languages: 
-JavaScript, Python, Java, C#
+**Languages:** Python • JavaScript • Java • C# • SQL
 
-### Frontend: 
-React JS, HTML5, CSS3
+**Frontend:** React.js • HTML • CSS • Tailwind CSS
 
-### Backend: 
-Spring 
+**Backend:** Flask • Node.js • REST APIs
 
-### BootDatabases: 
-MySQL, SQL Server
+**AI:** Generative AI • Prompt Engineering • Gemini API • Groq API • Streamlit • Scikit-learn
 
-### AI / ML:
-Scikit-Learn, Streamlit, Generative AI, Prompt Engineering, LLM APIs
+**Cybersecurity:** SOC Operations • Log Analysis • Threat Detection • Linux • Network Security
 
-### Tools: 
-Git, GitHub, VS Code, Cisco Packet Tracer
-
----
+**Tools:** Git • GitHub • VS Code • Postman
 
 ## 🚀 Featured Projects
 
-For more details on these and other projects, please visit my [https://amina-noor.github.io/amina-portfolio/].
+- 🤖 Intelligent Code Reviewer & Explainer
+- 🎨 Multimodal Image Generation Studio
+- 🔐 Login Log Analyzer
+- 💬 AI Chatbot with Memory
+- ✍️ AI Copywriting & Tone Transformer
+- 🌍 Air Quality Prediction
 
-### Project 
-### 1. Custom AI Chatbot with Memory ⭐
+## 🏆 Leadership
 
-A conversational AI chatbot that maintains session-based memory for more natural interactions.
+- General Secretary — IEEE Chapter (STEM Society)
+- Event Management Team Member — AICP Chapter
 
-**Features**
+## 📫 Connect
 
-- Session memory
-- Responsive UI
-- AI-powered responses
-- Clear chat functionality
-- API integration
+- 💼 LinkedIn: www.linkedin.com/in/amina-noor-bab75b297
+- 📧 Email: nooramina685@gmail.com
 
-**Tech Stack**
-
-Node.js • JavaScript • HTML • CSS • Groq API
-
----
-
-### 2. Autism Connect
-
-React application to support caregivers and individuals with Autism.
-
----
-
-### 3. AI Hash Crack Defense
-
-AI-powered cybersecurity defense against hash-cracking attacks.
-
----
-
-### 4. Air Quality Prediction
-
-Machine Learning project for predicting air quality using preprocessing and predictive models.
-
----
-
-### 5. SkillBridge
-
-Skill management web application.
-
-Java • Spring Boot • MySQL
-
----
-
-## 🏆 Achievements & Experience
-
-### 💼 Internships
-
-- Front-End AI Engineering Intern — FlyRank AI
-- Generative AI Intern — Decode Labs
-
-### 🏅 Certifications
-
-Generative AI • Streamlit • Machine Learning • Cyber Safety
-
-### 👨‍🏫 Leadership
-
-General Secretary — IEEE Chapter (STEM Society)
-
----
-
-## 📈 Current Goals
-
-- Build Production-Ready AI Applications
-- Master Generative AI & LLM Integration
-- Strengthen Cybersecurity (SOC) Skills
-- Contribute to Open Source
-- Build Scalable Full-Stack Applications
-- Expand My AI Portfolio
-
----
-
-## 📫 Connect With Me
-
-* LinkedIn: [www.linkedin.com/in/amina-noor-bab75b297](http://www.linkedin.com/in/amina-noor-bab75b297)
-* GitHub: github.com/Amina-Noor
-* Email: [nooramina685@gmail.com](mailto:nooramina685@gmail.com)
-
----
-
-⭐ Always learning, building, and improving.
+⭐ *Building intelligent software, securing digital systems, and continuously learning.*
